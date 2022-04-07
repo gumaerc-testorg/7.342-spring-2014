@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: f915a370-8b80-21a3-11ad-c8893c507014
 ---
@@ -16,13 +17,13 @@ Prerequisites
 
 Recommended prerequisites are:
 
-[_7.03 Genetics_](/courses/7-03-genetics-fall-2004/)
+[_7.03 Genetics_](/courses/7-03-genetics-fall-2004)
 
 _7.05 General Biochemistry_
 
-[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
-[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 Course Description
 ------------------
