@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: d6ffe60a-320d-ee68-a5c1-bcd93776397a
 ---
@@ -33,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Introduction)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Introduction" %}}
 
 
 {{< tdclose >}}
@@ -51,7 +52,7 @@ No Readings
 
 Classical approaches to Sequencing
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Classical_approaches_to_sequencing)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Classical_approaches_to_sequencing" %}}
 
 
 {{< tdclose >}}
@@ -75,7 +76,7 @@ Sanger, F., S. Nicklen, et al. "[DNA Sequencing with Chain-Terminating Inhibitor
 
 Contemporary Sequencing Methods
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Contemporary_sequencing_methods)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Contemporary_sequencing_methods" %}}
 
 
 {{< tdclose >}}
@@ -99,7 +100,7 @@ Quail, M. A., M. Smith, et al. "[A Tale of Three Next Generation Sequencing Plat
 
 Single nucleotide polymorphisms
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Single_nucleotide_polymorphisms)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Single_nucleotide_polymorphisms" %}}
 
 
 {{< tdclose >}}
@@ -123,7 +124,7 @@ DeJesus-Hernandez, M., I. R. Mackenzie, et al. "[Expanded GGGGCC Hexanucleotide 
 
 Copy Number Variation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Copy_number_variation)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Copy_number_variation" %}}
 
 
 {{< tdclose >}}
@@ -147,7 +148,7 @@ Nishiguchi, K. M., R. G. Tearle, et al. "[Whole Genome Sequencing in Patients wi
 
 Tracing human populations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Tracing_human_populations)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Tracing_human_populations" %}}
 
 
 {{< tdclose >}}
@@ -171,7 +172,7 @@ Moodley, Y., B. Linz, et al. "[The Peopling of the Pacific from a Bacterial Pers
 
 Genome wide association
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Genome_wide_association_studies)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Genome_wide_association_studies" %}}
 
 
 {{< tdclose >}}
@@ -195,7 +196,7 @@ Rydz, N., L. L. Swystun, et al. "[The C-type Lectin Receptor CLEC4M Binds, Inter
 
 Field trip
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Field_trip)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Field_trip" %}}
 
 
 {{< tdclose >}}
@@ -213,7 +214,7 @@ No Readings
 
 Genomic analysis and targeted therapies
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Genomic_analysis_and_targeted_therapies)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Genomic_analysis_and_targeted_therapies" %}}
 
 
 {{< tdclose >}}
@@ -237,7 +238,7 @@ Shah, N. P., J. M. Nicoll, et al. "[Multiple BCR-ABL Kinase Domain Mutations Con
 
 From rare mutation to mainstream drug target
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#From_raremutation_to_mainstream_drug_target)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#From_raremutation_to_mainstream_drug_target" %}}
 
 
 {{< tdclose >}}
@@ -261,7 +262,7 @@ Stein, E. A., S. Mellis, et al. "[Effect of a Monoclonal Antibody to PCSK9 on LD
 
 Mosaics and chimeras: when genetic analysis goes astray
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Mosaics_and_chimeras_when_genetic_analysis_goes_astray)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Mosaics_and_chimeras_when_genetic_analysis_goes_astray" %}}
 
 
 {{< tdclose >}}
@@ -285,7 +286,7 @@ Ng, B. G., K. J. Buckingham, et al. "[Mosaicism of the UDP-Galactose Transporter
 
 Crowdsourcing genetic studies
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Crowdsourcing_genetic_studies)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Crowdsourcing_genetic_studies" %}}
 
 
 {{< tdclose >}}
@@ -309,7 +310,7 @@ Kwak, D., A. Kam, et al. "[Open-Phylo: A Customizable Crowd-Computing Platform f
 
 Understanding the causes of rare diseases
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Understanding_the_causes_of_rare_diseases)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Understanding_the_causes_of_rare_diseases" %}}
 
 
 {{< tdclose >}}
@@ -333,7 +334,7 @@ Bainbridge, M. N., W. Wiszniewski, et al. "[Whole-Genome Sequencing for Optimize
 
 Final Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Final_presentations)
+{{% resource_link 84ac4acd-1e05-7864-f01d-d885ea783ef1 "See the Lecture Summary" "#Final_presentations" %}}
 
 
 {{< tdclose >}}

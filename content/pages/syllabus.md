@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, format, objectives, grading, an optional exercise,
+  and the schedule of lecture topics and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: f915a370-8b80-21a3-11ad-c8893c507014
 ---
