@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides summaries of each lecture session of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 84ac4acd-1e05-7864-f01d-d885ea783ef1
 ---
