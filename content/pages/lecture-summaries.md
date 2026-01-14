@@ -116,7 +116,7 @@ Genome wide association studies
 Field trip
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "Field_trip" >}}{{< /anchor >}}We will learn about the gene panels run using next generation sequencing at the {{% resource_link "4c2a066e-8ab4-47b8-bca7-b37149ad3d74" "Harvard Medical School Center for Personalized Genetic Medicine" %}} and discuss the challenges faced by clinicians who are interpreting these studies. We will take a field trip to see next generation sequencing machines and how this technology is being applied in research and clinical diagnostics.
+{{< anchor "Field_trip" >}}{{< /anchor >}}We will learn about the gene panels run using next generation sequencing at the [Harvard Medical School Center for Personalized Genetic Medicine](http://personalizedmedicine.partners.org/) and discuss the challenges faced by clinicians who are interpreting these studies. We will take a field trip to see next generation sequencing machines and how this technology is being applied in research and clinical diagnostics.
 {{< tdclose >}}
 
 {{< trclose >}}

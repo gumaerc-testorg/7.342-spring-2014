@@ -59,9 +59,9 @@ Classical approaches to Sequencing
 {{< tdopen >}}
 
 
-Maxam, A. M., and W. Gilbert. "{{% resource_link "9d43d219-872f-4a92-95e2-1058383878c9" "A New Method for Sequencing DNA" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 74, no. 2 (1977): 560–4.
+Maxam, A. M., and W. Gilbert. "[A New Method for Sequencing DNA](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC392330/)." _Proceedings of the National Academy of Sciences of the United States of America_ 74, no. 2 (1977): 560–4.
 
-Sanger, F., S. Nicklen, et al. "{{% resource_link "9c3a8b7f-bb14-4efd-8171-8284f90b7e4c" "DNA Sequencing with Chain-Terminating Inhibitors" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 74, no. 12 (1977): 5463–7.
+Sanger, F., S. Nicklen, et al. "[DNA Sequencing with Chain-Terminating Inhibitors](http://www.ncbi.nlm.nih.gov/pubmed/271968)." _Proceedings of the National Academy of Sciences of the United States of America_ 74, no. 12 (1977): 5463–7.
 
 
 {{< tdclose >}}
@@ -83,9 +83,9 @@ Contemporary Sequencing Methods
 {{< tdopen >}}
 
 
-Li, R., A. Montpetit, et al. "{{% resource_link "e5ab1907-115d-4eba-819e-35410e23868a" "Somatic Point Mutations Occurring Early in Development: A Onozygotic Twin Study" %}}." _Journal of Medical Genetics_ 51, no. 1 (2014): 28–34.
+Li, R., A. Montpetit, et al. "[Somatic Point Mutations Occurring Early in Development: A Onozygotic Twin Study](http://dx.doi.org/10.1136/jmedgenet-2013-101712)." _Journal of Medical Genetics_ 51, no. 1 (2014): 28–34.
 
-Quail, M. A., M. Smith, et al. "{{% resource_link "0bb65d81-2379-4c4d-bf9b-8dfd5d6c6bf0" "A Tale of Three Next Generation Sequencing Platforms: Comparison of Ion Torrent, Pacific Biosciences and Illumina MiSeq sequencers" %}}." _BMC Genomics_ 13 (2012): 341.
+Quail, M. A., M. Smith, et al. "[A Tale of Three Next Generation Sequencing Platforms: Comparison of Ion Torrent, Pacific Biosciences and Illumina MiSeq sequencers](http://dx.doi.org/10.1186/1471-2164-13-341)." _BMC Genomics_ 13 (2012): 341.
 
 
 {{< tdclose >}}
@@ -107,9 +107,9 @@ Single nucleotide polymorphisms
 {{< tdopen >}}
 
 
-Vance, C., A. Al-Chalabi, et al. "{{% resource_link "a151b19f-e5a7-46f7-bf04-ddc0f3105b57" "Familial Amyotrophic Lateral Sclerosis with Frontotemporal Dementia is Linked to a Locus on Chromosome 9p13.2–21.3" %}}." _Brain_ 129, no. 4 (2006): 868–76.
+Vance, C., A. Al-Chalabi, et al. "[Familial Amyotrophic Lateral Sclerosis with Frontotemporal Dementia is Linked to a Locus on Chromosome 9p13.2–21.3](http://dx.doi.org/10.1093/brain/awl030)." _Brain_ 129, no. 4 (2006): 868–76.
 
-DeJesus-Hernandez, M., I. R. Mackenzie, et al. "{{% resource_link "27a45083-4314-43a0-af2e-9932a9567460" "Expanded GGGGCC Hexanucleotide Repeat in Non-Coding Region of C9ORF72 Causes Chromosome 9p-Linked Frontotemporal Dementia and Amyotrophic Lateral Sclerosis" %}}." _Neuron_ 72, no. 2 (2011): 245–56.
+DeJesus-Hernandez, M., I. R. Mackenzie, et al. "[Expanded GGGGCC Hexanucleotide Repeat in Non-Coding Region of C9ORF72 Causes Chromosome 9p-Linked Frontotemporal Dementia and Amyotrophic Lateral Sclerosis](http://dx.doi.org/10.1016/j.neuron.2011.09.011)." _Neuron_ 72, no. 2 (2011): 245–56.
 
 
 {{< tdclose >}}
@@ -131,9 +131,9 @@ Copy Number Variation
 {{< tdopen >}}
 
 
-Blauw, H. M., C. P. Barnes, et al. "{{% resource_link "338f2f0a-bc39-46b5-bf08-53ee0738e453" "SMN1 Gene Duplications are Associated with Sporadic ALS" %}}." _Neurology_ 78, no. 11 (2012): 776–80.
+Blauw, H. M., C. P. Barnes, et al. "[SMN1 Gene Duplications are Associated with Sporadic ALS](http://dx.doi.org/10.1212/WNL.0b013e318249f697)." _Neurology_ 78, no. 11 (2012): 776–80.
 
-Nishiguchi, K. M., R. G. Tearle, et al. "{{% resource_link "4455bf91-dc40-4131-b738-57f418871c13" "Whole Genome Sequencing in Patients with Retinitis Pigmentosa Reveals Pathogenic DNA Structural Changes and NEK2 as a New Disease Gene" %}}." _Proceedings of the National Academy of Sciences of the United States of Americ__a_ 110, no. 40 (2013): 16139–44.
+Nishiguchi, K. M., R. G. Tearle, et al. "[Whole Genome Sequencing in Patients with Retinitis Pigmentosa Reveals Pathogenic DNA Structural Changes and NEK2 as a New Disease Gene](http://dx.doi.org/10.1073/pnas.1308243110)." _Proceedings of the National Academy of Sciences of the United States of Americ__a_ 110, no. 40 (2013): 16139–44.
 
 
 {{< tdclose >}}
@@ -155,9 +155,9 @@ Tracing human populations
 {{< tdopen >}}
 
 
-Elhaik, E., E. Greenspan, et al. "{{% resource_link "8e464ce3-0360-419d-8312-6d85a85dece5" "The GenoChip: A New Tool for Genetic Anthropology" %}}." _Genome Biology and Evolution_ 5, no. 5 (2013): 1021–31.
+Elhaik, E., E. Greenspan, et al. "[The GenoChip: A New Tool for Genetic Anthropology](http://dx.doi.org/10.1093/gbe/evt066)." _Genome Biology and Evolution_ 5, no. 5 (2013): 1021–31.
 
-Moodley, Y., B. Linz, et al. "{{% resource_link "6f36b26e-d7cc-4dd1-a801-14efa5e4b11d" "The Peopling of the Pacific from a Bacterial Perspective" %}}." _Science_ 323, no. 5913 (2009): 527–30.
+Moodley, Y., B. Linz, et al. "[The Peopling of the Pacific from a Bacterial Perspective](http://dx.doi.org/10.1126/science.1166083)." _Science_ 323, no. 5913 (2009): 527–30.
 
 
 {{< tdclose >}}
@@ -179,9 +179,9 @@ Genome wide association
 {{< tdopen >}}
 
 
-Nuinoon, M., W. Makarasara, et al. "{{% resource_link "6d100774-5bc7-401e-a134-bf20fff0de4f" "A Genome-Wide Association Identified the Common Genetic Variants Influence Disease Severity in Beta0-Thalassemia / Hemoglobin E" %}}." _Human Genetics_ 127, no. 3 (2010): 303–14.
+Nuinoon, M., W. Makarasara, et al. "[A Genome-Wide Association Identified the Common Genetic Variants Influence Disease Severity in Beta0-Thalassemia / Hemoglobin E](http://dx.doi.org/10.1007/s00439-009-0770-2)." _Human Genetics_ 127, no. 3 (2010): 303–14.
 
-Rydz, N., L. L. Swystun, et al. "{{% resource_link "db1880cf-6332-4a71-a18a-0a3006af75d0" "The C-type Lectin Receptor CLEC4M Binds, Internalizes, and Clears Von Willebrand Factor and Contributes to the Variation in Plasma Von Willebrand Factor Levels" %}}." _Blood_ 121, no. 26 (2013): 5228–37.
+Rydz, N., L. L. Swystun, et al. "[The C-type Lectin Receptor CLEC4M Binds, Internalizes, and Clears Von Willebrand Factor and Contributes to the Variation in Plasma Von Willebrand Factor Levels](http://dx.doi.org/10.1182/blood-2012-10-457507)." _Blood_ 121, no. 26 (2013): 5228–37.
 
 
 {{< tdclose >}}
@@ -221,9 +221,9 @@ Genomic analysis and targeted therapies
 {{< tdopen >}}
 
 
-Zhang, J., P. Meltzer, et al. "{{% resource_link "bb33c30b-c546-42c3-9987-2811694bdafe" "Application of Chromosome Microdissection Probes for Elucidation of BCR-ABL Fusion and Variant Philadelphia Chromosome Translocations in Chronic Myelogenous Leukemia" %}}." _Blood_ 81, no. 12 (1993): 3365–71.
+Zhang, J., P. Meltzer, et al. "[Application of Chromosome Microdissection Probes for Elucidation of BCR-ABL Fusion and Variant Philadelphia Chromosome Translocations in Chronic Myelogenous Leukemia](http://www.ncbi.nlm.nih.gov/pubmed/8507874)." _Blood_ 81, no. 12 (1993): 3365–71.
 
-Shah, N. P., J. M. Nicoll, et al. "{{% resource_link "2126bff3-5675-4b40-b0ae-faa7aadf4d4a" "Multiple BCR-ABL Kinase Domain Mutations Confer Polyclonal Resistance to the Tyrosine Kinase Inhibitor Imatinib (STI571) in Chronic Phase and Blast Crisis Chronic Myeloid Leukemia" %}}." _Cancer Cell_ 2, no. 2 (2002): 117–25.
+Shah, N. P., J. M. Nicoll, et al. "[Multiple BCR-ABL Kinase Domain Mutations Confer Polyclonal Resistance to the Tyrosine Kinase Inhibitor Imatinib (STI571) in Chronic Phase and Blast Crisis Chronic Myeloid Leukemia](http://dx.doi.org/10.1016/S1535-6108(02)00096-X)." _Cancer Cell_ 2, no. 2 (2002): 117–25.
 
 
 {{< tdclose >}}
@@ -245,9 +245,9 @@ From rare mutation to mainstream drug target
 {{< tdopen >}}
 
 
-Kotowski, I. K., A. Pertsemlidis, et al. "{{% resource_link "8926921a-e2b9-43de-9d80-01bc905bc7e9" "A Spectrum of PCSK9 Alleles Contributes to Plasma Levels of Low-Density Lipoprotein Cholesterol" %}}." _American Journal of Human Genetics_ 78, no. 3 (2006): 410–22.
+Kotowski, I. K., A. Pertsemlidis, et al. "[A Spectrum of PCSK9 Alleles Contributes to Plasma Levels of Low-Density Lipoprotein Cholesterol](http://dx.doi.org/10.1086/500615)." _American Journal of Human Genetics_ 78, no. 3 (2006): 410–22.
 
-Stein, E. A., S. Mellis, et al. "{{% resource_link "ae0c05cd-41ed-4540-a06b-0c81f800655b" "Effect of a Monoclonal Antibody to PCSK9 on LDL Cholesterol" %}}." _New England Journal of Medicine_ 366, no. 12 (2012): 1108–18.
+Stein, E. A., S. Mellis, et al. "[Effect of a Monoclonal Antibody to PCSK9 on LDL Cholesterol](http://dx.doi.org/10.1056/NEJMoa1105803)." _New England Journal of Medicine_ 366, no. 12 (2012): 1108–18.
 
 
 {{< tdclose >}}
@@ -269,9 +269,9 @@ Mosaics and chimeras: when genetic analysis goes astray
 {{< tdopen >}}
 
 
-O'Huallachain, M., K. J. Karczewski, et al. "{{% resource_link "81117951-71ce-436c-a6a8-44e26f494328" "Extensive Genetic Variation in Somatic Human Tissues" %}}." _Proceedings of the National Academy of Sciences of the United States of America_ 109, no. 44 (2012): 18018–23.
+O'Huallachain, M., K. J. Karczewski, et al. "[Extensive Genetic Variation in Somatic Human Tissues](http://dx.doi.org/10.1073/pnas.1213736109)." _Proceedings of the National Academy of Sciences of the United States of America_ 109, no. 44 (2012): 18018–23.
 
-Ng, B. G., K. J. Buckingham, et al. "{{% resource_link "2a7367e5-a3a1-4186-95ce-b27763cf0233" "Mosaicism of the UDP-Galactose Transporter SLC35A2 Causes a Congenital Disorder of Glycosylation" %}}." _American Journal of Human Genetics_ 92, no. 4 (2013): 632–6.
+Ng, B. G., K. J. Buckingham, et al. "[Mosaicism of the UDP-Galactose Transporter SLC35A2 Causes a Congenital Disorder of Glycosylation](http://dx.doi.org/10.1016/j.ajhg.2013.03.012)." _American Journal of Human Genetics_ 92, no. 4 (2013): 632–6.
 
 
 {{< tdclose >}}
@@ -293,9 +293,9 @@ Crowdsourcing genetic studies
 {{< tdopen >}}
 
 
-Do, C. B., J. Y. Tung, et al. "{{% resource_link "6a2646bd-588a-4356-abd4-5258a860e4f1" "Web-Based Genome-Wide Association Study Identifies Two Novel Loci and A Substantial Genetic Component for Parkinson's Disease" %}}." _PLoS Genetics_ 7 no. 6 (2011): e1002141.
+Do, C. B., J. Y. Tung, et al. "[Web-Based Genome-Wide Association Study Identifies Two Novel Loci and A Substantial Genetic Component for Parkinson's Disease](http://dx.doi.org/10.1371/journal.pgen.1002141)." _PLoS Genetics_ 7 no. 6 (2011): e1002141.
 
-Kwak, D., A. Kam, et al. "{{% resource_link "490f9e5a-398e-4c1e-a3dd-2180561d7e24" "Open-Phylo: A Customizable Crowd-Computing Platform for Multi Sequence Alignment" %}}." _Genome Biology_ 14, no. 10 (2013): R116.
+Kwak, D., A. Kam, et al. "[Open-Phylo: A Customizable Crowd-Computing Platform for Multi Sequence Alignment](http://dx.doi.org/10.1186/gb-2013-14-10-r116)." _Genome Biology_ 14, no. 10 (2013): R116.
 
 
 {{< tdclose >}}
@@ -317,9 +317,9 @@ Understanding the causes of rare diseases
 {{< tdopen >}}
 
 
-Chen, Z., J. L. Wang, et al. "{{% resource_link "a9186abc-932f-4aa7-bc38-3e4174a7b25d" "Using next-Generation Sequencing as a Genetic Diagnostic Tool in Rare Autosomal Recessive Neurologic Mendelian Disorders" %}}." _Neurobiology of Aging_ 34, no. 10 (2013): 2442.e11–7.
+Chen, Z., J. L. Wang, et al. "[Using next-Generation Sequencing as a Genetic Diagnostic Tool in Rare Autosomal Recessive Neurologic Mendelian Disorders](http://dx.doi.org/10.1016/j.neurobiolaging.2013.04.029)." _Neurobiology of Aging_ 34, no. 10 (2013): 2442.e11–7.
 
-Bainbridge, M. N., W. Wiszniewski, et al. "{{% resource_link "2cd12b3d-94df-45af-8c14-08c6e1a6a7a2" "Whole-Genome Sequencing for Optimized Patient Management" %}}." _Science Translational Medicine_ 3, no. 87 (2011): 87re3.
+Bainbridge, M. N., W. Wiszniewski, et al. "[Whole-Genome Sequencing for Optimized Patient Management](http://dx.doi.org/10.1126/scitranslmed.3002243)." _Science Translational Medicine_ 3, no. 87 (2011): 87re3.
 
 
 {{< tdclose >}}
